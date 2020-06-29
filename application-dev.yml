@@ -1,4 +1,3 @@
 from: git-dev-1.0
-spring:
-  datasource:
-    test_username: user_dev
+data:
+  env: dev

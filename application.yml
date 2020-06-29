@@ -1,4 +1,3 @@
 from: git-default-1.0
-spring:
-  datasource:
-    test_username: user_default
+data:
+  env: dev
